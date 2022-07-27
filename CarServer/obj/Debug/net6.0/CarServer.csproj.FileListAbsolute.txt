@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\CarInfo\CarServer\bin\Debug\net6.0\CarServer.exe
+C:\Users\User\source\repos\CarInfo\CarServer\bin\Debug\net6.0\CarServer.deps.json
+C:\Users\User\source\repos\CarInfo\CarServer\bin\Debug\net6.0\CarServer.runtimeconfig.json
+C:\Users\User\source\repos\CarInfo\CarServer\bin\Debug\net6.0\CarServer.dll
+C:\Users\User\source\repos\CarInfo\CarServer\bin\Debug\net6.0\ref\CarServer.dll
+C:\Users\User\source\repos\CarInfo\CarServer\bin\Debug\net6.0\CarServer.pdb
+C:\Users\User\source\repos\CarInfo\CarServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\CarInfo\CarServer\obj\Debug\net6.0\CarServer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CarInfo\CarServer\obj\Debug\net6.0\CarServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CarInfo\CarServer\obj\Debug\net6.0\CarServer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CarInfo\CarServer\obj\Debug\net6.0\CarServer.AssemblyInfo.cs
+C:\Users\User\source\repos\CarInfo\CarServer\obj\Debug\net6.0\CarServer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarInfo\CarServer\obj\Debug\net6.0\CarServer.csproj.CopyComplete
+C:\Users\User\source\repos\CarInfo\CarServer\obj\Debug\net6.0\CarServer.dll
+C:\Users\User\source\repos\CarInfo\CarServer\obj\Debug\net6.0\ref\CarServer.dll
+C:\Users\User\source\repos\CarInfo\CarServer\obj\Debug\net6.0\CarServer.pdb
+C:\Users\User\source\repos\CarInfo\CarServer\obj\Debug\net6.0\CarServer.genruntimeconfig.cache

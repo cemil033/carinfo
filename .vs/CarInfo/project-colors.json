@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ce6d490-0b5a-410d-bfc3-fcef96631c02": {
+      "ProjectGuid": "0ce6d490-0b5a-410d-bfc3-fcef96631c02",
+      "DisplayName": "CarServer",
+      "ColorIndex": 0
+    },
+    "067eaa4c-9f7d-4fff-bf76-54d448f23a34": {
+      "ProjectGuid": "067eaa4c-9f7d-4fff-bf76-54d448f23a34",
+      "DisplayName": "CarClient",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
